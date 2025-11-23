@@ -1,5 +1,5 @@
 # boyner-indirim-kodu
-boyner indirim kodu ve boyner kupon kodu!
+<a href="https://markodi.com/tr/boyner/">boyner indirim kodu</a> ve boyner kupon kodu!
 
 Boyner İndirim Kodu- Boyner Kupon Kodu
 
